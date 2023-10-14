@@ -1,0 +1,10 @@
+br\com\christhofervieira\todolist\task\ITaskRepository.class
+br\com\christhofervieira\todolist\task\TaskModel.class
+br\com\christhofervieira\todolist\user\IUserRepository.class
+br\com\christhofervieira\todolist\errors\ExceptionHandlerController.class
+br\com\christhofervieira\todolist\filter\FilterTaskAuth.class
+br\com\christhofervieira\todolist\TodolistApplication.class
+br\com\christhofervieira\todolist\task\TaskController.class
+br\com\christhofervieira\todolist\utils\Utils.class
+br\com\christhofervieira\todolist\user\UserModel.class
+br\com\christhofervieira\todolist\user\UserController.class
